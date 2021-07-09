@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "James L. Frank",
+        "contact": "715-371-3507",
+        "totalOrders": 20,
+        "totalAmount": 4523,
+        "joining": "01 Jan 2021"
+    },
+    {
+        "id": 3,
+        "name": "Debra J. Nguyen",
+        "contact": "320-692-5287",
+        "totalOrders": 10,
+        "totalAmount": 6533,
+        "joining": "01 Jan 2021"
+    },
+    {
+        "id": 4,
+        "name": "Erin E. Gonzales",
+        "contact": "989-981-9455",
+        "totalOrders": 23,
+        "totalAmount": 2342,
+        "joining": "01 Jan 2021"
+    },
+    {
+        "id": 5,
+        "name": "Carolyn B. Coulter",
+        "contact": "352-368-4009",
+        "totalOrders": 12,
+        "totalAmount": 342.53,
+        "joining": "01 Jan 2021"
+    },
+    {
+        "id": 6,
+        "name": "Bryan G. Hathaway",
+        "contact": "320-692-5287",
+        "totalOrders": 31,
+        "totalAmount": 4355.32,
+        "joining": "01 Jan 2021"
+    },
+    {
+        "id": 7,
+        "name": "Tony L. Dematteo",
+        "contact": "320-692-5287",
+        "totalOrders": 27,
+        "totalAmount": 321,
+        "joining": "01 Jan 2021"
+    },
+    {
+        "id": 8,
+        "name": "Leah M. Cassella",
+        "contact": "208-610-3130",
+        "totalOrders": 6,
+        "totalAmount": 3432,
+        "joining": "01 Jan 2021"
+    },
+    {
+        "id": 9,
+        "name": "James C. Chambers",
+        "contact": "912-345-6071",
+        "totalOrders": 13,
+        "totalAmount": 2342.64,
+        "joining": "01 Jan 2021"
+    },
+    {
+        "id": 10,
+        "name": "Mary R. Wills",
+        "contact": "901-268-7845",
+        "totalOrders": 3,
+        "totalAmount": 231.99,
+        "joining": "01 Jan 2021"
+    }
+]
